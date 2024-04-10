@@ -1,0 +1,15 @@
+
+<Students>
+    <Student>
+        <id>1</id>
+        <name>Thanh Loan</name>
+        <address>470 Tran Dai Nghia</address>
+        <dateOfBirth>2002-12-30</dateOfBirth>
+    </Student>
+    <Student>
+        <id>2</id>
+        <name>Tai</name> 
+        <address>456 Tran Dai Nghia</address>
+        <dateOfBirth>2002-10-02</dateOfBirth>
+    </Student>
+</Students>
